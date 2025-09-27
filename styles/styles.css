@@ -1,0 +1,27 @@
+* {
+  background-color: rgba(185, 148, 66, 10);
+  font-family: Times, serif, Arial, Helvetica, sans-serif;
+}
+
+.recipeList {
+  background-color: aquamarine;
+}
+
+.titles {
+  background-color: aqua;
+  text-align: center;
+}
+
+.recipeImage {
+}
+
+,
+.recipeDescription {
+  background-color: rgba(185, 148, 66, 10);
+}
+,
+.recipeIngredients {
+}
+,
+.recipeSteps {
+}
